@@ -1,0 +1,68 @@
+body {
+
+    background: rgb(57, 255, 83);
+    color: rgb(0, 90, 21);
+    margin: 50px;
+    padding: 20px;
+}
+
+.change {
+    background-color: darkgreen;
+    color: aliceblue;
+    border-radius: 27px;
+    border-color: black;
+    border-width: 20px;
+    font-size: 15px;
+
+}
+
+.hr {
+    border-top: 1px solid darkgreen;
+}
+
+.img {
+
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+.invis {
+    color: darkgreen;
+}
+
+h4 {
+    background-color: rgb(255, 251, 0);
+    color: darkgreen;
+    border-radius: 10px;
+    width: fit-content;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+
+.all {
+    width: fit-content;
+    margin-left: 20px;
+}
+
+.res {
+    background-color: rgb(255, 251, 0);
+    color: darkgreen;
+    border-radius: 10px;
+    width: fit-content;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+
+.FINAL{
+    background: orange;
+    border-radius: 20px;
+    border-color: black;
+    color: brown;
+}
+
+h6{
+    color: orange;
+}
